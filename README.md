@@ -11,6 +11,7 @@ Strange is designed to accomplish this! It multi-purpose discord bot with divers
 * Stats Counter Channels
 * Translation
 * Image Manipulation<br>
+
 _Much more ..._
 
 ## Quick Links:
